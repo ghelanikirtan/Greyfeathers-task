@@ -25,10 +25,16 @@ So, This Repository is regarding the Task assigned to me by **[GreyFeathers](htt
 - Created more images for testing using `ImageDataGenerator`.
 - Loss function used: `sparse_categorical_crossentropy`.
 - Optimizer used: `Adam`.
-- Trained model for **10 EPOCHS & 32 Batch size**.
+- Trained model for **50 EPOCHS & 32 Batch size**.
 
 ### Model Evaluation:
 
 - Model achieved an accuracy of around 90%
 - Model was very good at predicting dogs. The recall of models for cats was slightly low.
 - Model can be improved further by better capturing of features.
+
+### CAM (Class Activation Maps):
+
+- Built Gradient CAM model to detect the heatmaps per layer inputs and associated outputs
+- Also Plotted as heatmaps overlaying the images
+
