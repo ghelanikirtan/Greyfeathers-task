@@ -1,6 +1,6 @@
 # CNN model for Classifying CATS and DOGS.
 
-So, This Repository is regarding the Task assigned to me by **[GreyFeathers]('https://www.greyfeathers.in/').**
+So, This Repository is regarding the Task assigned to me by **[GreyFeathers](https://www.greyfeathers.in/).**
 
 ## Task Description:
 - Creating a Model (from scratch / using transfer learning).
